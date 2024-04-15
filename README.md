@@ -9,9 +9,13 @@
 
 ## Começando 🚀
 
-O projeto presente neste repositório e nomeado pelos seus colaboradores como "" tem como seu principal objetivo replicar o funcionamento de um sistema em C++ para conectar donos de imóveis com empresas e pessoas que buscam espaços para realizar coworking. O sistema deve permitir que os donos cadastrem seus imóveis e as empresas respondam a um questionário para verificar se o local é compatível com suas necessidades. O sistema também deve ser capaz de encontrar a melhor combinação possível entre os imóveis disponíveis e as empresas interessadas. . As funções implementadas são as seguintes:
+O projeto presente neste repositório tem como seu principal objetivo replicar o funcionamento de um sistema em C++ para conectar donos de imóveis com empresas e pessoas que buscam espaços para realizar coworking. O sistema deve permitir que os donos cadastrem seus imóveis e as empresas respondam a um questionário para verificar se o local é compatível com suas necessidades. O sistema também deve ser capaz de encontrar a melhor combinação possível entre os imóveis disponíveis e as empresas interessadas. As funções implementadas são as seguintes:
 
-🔸
+🔸Logar
+🔸Cadastrar empresa
+🔸Cadastrar imóvel
+🔸Buscar imóvel
+🔸Match  imóvel x empresa1 x empresa2
     <td align="center">
       <a href="#">
         <img src="https://avatars.githubusercontent.com/u/93560193?v=4" width="100px;" alt="Eyshilasara"/><br>
