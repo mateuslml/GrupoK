@@ -2,7 +2,6 @@
 #include "modelagem.hpp"
 
 int main () {
-
     int opcao;
 
     std::cout << "  ____________________________________________________" << std::endl;
@@ -102,5 +101,4 @@ int main () {
    }while(opcao != 0);
         
     return 0;
-
 }
