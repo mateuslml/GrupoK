@@ -64,6 +64,10 @@ Gerar relatorio de empresas interessadas no aluguel do espaco (Nome da empresa, 
 
 <p align="right">(<a href="#top">Voltar para o topo</a>)</p>
 
+## Miro
+
+https://miro.com/app/board/uXjVKJ5Oq0c=/
+
 ## 🤝 Colaboradores
 
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
